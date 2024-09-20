@@ -1,0 +1,28 @@
+{
+  "Pdist": {
+    "dynamicRankSupport": true,
+    "simplifiedKeyMode": 0,
+    "binaryList": [
+      {
+        "coreType": 2,
+        "simplifiedKey": "Pdist/d=0,p=0/0,2/0,2",
+        "binPath": "ascend910b/pdist/Pdist_097c0947dbaea0fa5e5d3bccbb38752a.o"
+      },
+      {
+        "coreType": 2,
+        "simplifiedKey": "Pdist/d=1,p=0/0,2/0,2",
+        "binPath": "ascend910b/pdist/Pdist_097c0947dbaea0fa5e5d3bccbb38752a.o"
+      },
+      {
+        "coreType": 2,
+        "simplifiedKey": "Pdist/d=0,p=0/1,2/1,2",
+        "binPath": "ascend910b/pdist/Pdist_c4fd622c48672b67304a605f3152dc62.o"
+      },
+      {
+        "coreType": 2,
+        "simplifiedKey": "Pdist/d=1,p=0/1,2/1,2",
+        "binPath": "ascend910b/pdist/Pdist_c4fd622c48672b67304a605f3152dc62.o"
+      }
+    ]
+  }
+}

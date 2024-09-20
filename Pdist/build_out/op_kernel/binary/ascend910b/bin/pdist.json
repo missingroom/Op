@@ -1,0 +1,88 @@
+{
+  "binList": [
+    {
+      "simplifiedKey": [
+        "Pdist/d=0,p=0/0,2/0,2",
+        "Pdist/d=1,p=0/0,2/0,2"
+      ],
+      "staticKey": "794cb4832899a70050bca87528bcf29bc742bfabd2bad2c5aa0b2e32ea7086fb",
+      "int64Mode": false,
+      "inputs": [
+        {
+          "name": "x",
+          "index": 0,
+          "dtype": "float32",
+          "format": "ND",
+          "paramType": "required",
+          "shape": [
+            -2
+          ]
+        }
+      ],
+      "outputs": [
+        {
+          "name": "y",
+          "index": 0,
+          "dtype": "float32",
+          "format": "ND",
+          "paramType": "required",
+          "shape": [
+            -2
+          ]
+        }
+      ],
+      "attrs": [
+        {
+          "name": "p",
+          "dtype": "float",
+          "value": 0.0
+        }
+      ],
+      "binInfo": {
+        "jsonFilePath": "ascend910b/pdist/Pdist_097c0947dbaea0fa5e5d3bccbb38752a.json"
+      }
+    },
+    {
+      "simplifiedKey": [
+        "Pdist/d=0,p=0/1,2/1,2",
+        "Pdist/d=1,p=0/1,2/1,2"
+      ],
+      "staticKey": "6a2ad7562b2656bd8f5118a2cac862a01965970bbc7d0ab2e263e9bdb0e2d3d7",
+      "int64Mode": false,
+      "inputs": [
+        {
+          "name": "x",
+          "index": 0,
+          "dtype": "float16",
+          "format": "ND",
+          "paramType": "required",
+          "shape": [
+            -2
+          ]
+        }
+      ],
+      "outputs": [
+        {
+          "name": "y",
+          "index": 0,
+          "dtype": "float16",
+          "format": "ND",
+          "paramType": "required",
+          "shape": [
+            -2
+          ]
+        }
+      ],
+      "attrs": [
+        {
+          "name": "p",
+          "dtype": "float",
+          "value": 0.0
+        }
+      ],
+      "binInfo": {
+        "jsonFilePath": "ascend910b/pdist/Pdist_c4fd622c48672b67304a605f3152dc62.json"
+      }
+    }
+  ]
+}

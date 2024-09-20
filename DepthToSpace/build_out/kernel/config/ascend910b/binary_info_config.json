@@ -1,0 +1,48 @@
+{
+  "DepthToSpace": {
+    "dynamicRankSupport": true,
+    "simplifiedKeyMode": 0,
+    "binaryList": [
+      {
+        "coreType": 2,
+        "simplifiedKey": "DepthToSpace/d=0,p=0/2,2/2,2",
+        "binPath": "ascend910b/depth_to_space/DepthToSpace_7064a90832aab6ac5a56e78dd7552482.o"
+      },
+      {
+        "coreType": 2,
+        "simplifiedKey": "DepthToSpace/d=1,p=0/2,2/2,2",
+        "binPath": "ascend910b/depth_to_space/DepthToSpace_7064a90832aab6ac5a56e78dd7552482.o"
+      },
+      {
+        "coreType": 2,
+        "simplifiedKey": "DepthToSpace/d=0,p=0/3,2/3,2",
+        "binPath": "ascend910b/depth_to_space/DepthToSpace_6dfe58a9254e52a57c75cf8bf0a0d5e9.o"
+      },
+      {
+        "coreType": 2,
+        "simplifiedKey": "DepthToSpace/d=1,p=0/3,2/3,2",
+        "binPath": "ascend910b/depth_to_space/DepthToSpace_6dfe58a9254e52a57c75cf8bf0a0d5e9.o"
+      },
+      {
+        "coreType": 2,
+        "simplifiedKey": "DepthToSpace/d=0,p=0/0,2/0,2",
+        "binPath": "ascend910b/depth_to_space/DepthToSpace_e6bf23fc63f778673bc55c996c450bbd.o"
+      },
+      {
+        "coreType": 2,
+        "simplifiedKey": "DepthToSpace/d=1,p=0/0,2/0,2",
+        "binPath": "ascend910b/depth_to_space/DepthToSpace_e6bf23fc63f778673bc55c996c450bbd.o"
+      },
+      {
+        "coreType": 2,
+        "simplifiedKey": "DepthToSpace/d=0,p=0/1,2/1,2",
+        "binPath": "ascend910b/depth_to_space/DepthToSpace_51b5c99ca94ab1af8818ecbd6ba9946e.o"
+      },
+      {
+        "coreType": 2,
+        "simplifiedKey": "DepthToSpace/d=1,p=0/1,2/1,2",
+        "binPath": "ascend910b/depth_to_space/DepthToSpace_51b5c99ca94ab1af8818ecbd6ba9946e.o"
+      }
+    ]
+  }
+}

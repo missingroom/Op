@@ -1,0 +1,74 @@
+{
+    "binFileName": "Pdist_097c0947dbaea0fa5e5d3bccbb38752a",
+    "binFileSuffix": ".o",
+    "blockDim": -1,
+    "coreType": "VectorCore",
+    "core_type": "AIV",
+    "intercoreSync": 0,
+    "kernelName": "Pdist_097c0947dbaea0fa5e5d3bccbb38752a",
+    "magic": "RT_DEV_BINARY_MAGIC_ELF_AIVEC",
+    "memoryStamping": [],
+    "opParaSize": 12,
+    "parameters": [],
+    "sha256": "bd6b031f1e04d716de921002c2ad19a4b4e3d1cfeb15cb5b7f04c514ce02f84d",
+    "workspace": {
+        "num": 1,
+        "size": [
+            -1
+        ],
+        "type": [
+            0
+        ]
+    },
+    "kernelList": [
+        {
+            "kernelName": "Pdist_097c0947dbaea0fa5e5d3bccbb38752a_0"
+        }
+    ],
+    "optionalInputMode": "gen_placeholder",
+    "compileInfo": {},
+    "supportInfo": {
+        "implMode": "",
+        "int64Mode": false,
+        "simplifiedKeyMode": 0,
+        "simplifiedKey": [
+            "Pdist/d=0,p=0/0,2/0,2",
+            "Pdist/d=1,p=0/0,2/0,2"
+        ],
+        "staticKey": "794cb4832899a70050bca87528bcf29bc742bfabd2bad2c5aa0b2e32ea7086fb",
+        "inputs": [
+            {
+                "name": "x",
+                "index": 0,
+                "dtype": "float32",
+                "format": "ND",
+                "paramType": "required",
+                "shape": [
+                    -2
+                ]
+            }
+        ],
+        "outputs": [
+            {
+                "name": "y",
+                "index": 0,
+                "dtype": "float32",
+                "format": "ND",
+                "paramType": "required",
+                "shape": [
+                    -2
+                ]
+            }
+        ],
+        "attrs": [
+            {
+                "name": "p",
+                "dtype": "float",
+                "value": 0.0
+            }
+        ],
+        "opMode": "dynamic",
+        "optionalInputMode": "gen_placeholder",
+        "deterministic": "ignore"
+    }
+}
